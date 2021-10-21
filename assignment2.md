@@ -1,8 +1,8 @@
-# Out of class assignment #2. Follow up to in-class assignment that sets up the student with data skills.
+# Out of class assignment #2.
 
 ### Eric Liu
 
-#### Objective: Students will search a new dataset to analyze.
+#### Objective: Students will search a new dataset to analyze. Follow up to in-class assignment that sets up the student with data skills.
 
 SKills:
 - Explore student's personal interest, connect to the data
