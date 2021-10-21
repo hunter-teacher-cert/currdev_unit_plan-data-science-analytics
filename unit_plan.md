@@ -1,5 +1,7 @@
 # Unit Plan
 
+## Eric Liu
+
 ## Data Science / Analytics
 
 Students will encounter more and more data in the world that needs sorting and analysis. Whether it's a chemistry lab collecting data or social media collecting personal information. Students should know how to gather, identify, analyze relationships between data, and present the data in a meaningful way. 
