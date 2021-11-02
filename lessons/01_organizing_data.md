@@ -4,7 +4,9 @@
 
 #### Objective: Students will use basic data skills to sort, rearrange, and modify data in a spreadsheet.
 
-SKills:
+Standards: 
+
+Skills:
 - Add data to a row/column
 - Delete data from a row/column
 - Reference data in a specific row/column
@@ -18,3 +20,6 @@ Tasks:
 - Analyze the charts / graphs
 - Identify any patterns / correlations
 - Analyze if it's correlation vs causation
+
+Resources:
+- Students will be given template google sheets to complete the walk-through tutorial
