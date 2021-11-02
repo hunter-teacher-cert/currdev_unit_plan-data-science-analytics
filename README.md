@@ -36,23 +36,36 @@ Google Public Data Visualization Tools
 
 ## Resources
 https://bjc.edc.org/bjc-r/cur/programming/5-algorithms/3-turning-data-information/1-health-data.html?topic=nyc_bjc%2F5-algorithms.topic&course=bjc4nyc.html&novideo&noassignment
+
 https://corgis-edu.github.io/corgis/
+
 https://www.google.com/publicdata/directory?hl=en
 
 ---
 
 ## Lessons
 Total length: 2 Weeks
+
 00 - Introduction to Data / Data in our lives
+
 01 - Organizing Data
+
 02 - Filtering and Scrubbing Data
+
 03 - Analyzing Data
+
 04 - In-depth data analysis
+
 05 - Big Data Research Project
+
 06 - Project Research and Work-day
+
 07 - Student Peer Feedback
+
 08 - Student Revisions and Work-day
+
 09 - Student Science Fair
+
 
 ---
 
