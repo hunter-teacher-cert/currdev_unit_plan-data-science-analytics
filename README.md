@@ -23,9 +23,13 @@ In the AP CSP curriculum, there is a section on data and some higher level conce
 
 ## Tools Used
 Snap BJC
+
 Google Sheets / MS Excel
+
 CORGIS
+
 NetLogo
+
 Google Public Data Visualization Tools
 
 ---
