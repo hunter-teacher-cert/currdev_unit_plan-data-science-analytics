@@ -24,12 +24,16 @@ In the AP CSP curriculum, there is a section on data and some higher level conce
 ## Tools Used
 Snap BJC
 Google Sheets / MS Excel
+CORGIS
+NetLogo
+Google Public Data Visualization Tools
 
 ---
 
 ## Resources
 https://bjc.edc.org/bjc-r/cur/programming/5-algorithms/3-turning-data-information/1-health-data.html?topic=nyc_bjc%2F5-algorithms.topic&course=bjc4nyc.html&novideo&noassignment
 https://corgis-edu.github.io/corgis/
+https://www.google.com/publicdata/directory?hl=en
 
 ---
 
