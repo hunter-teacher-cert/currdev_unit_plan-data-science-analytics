@@ -47,16 +47,25 @@ https://www.google.com/publicdata/directory?hl=en
 Total length: 2 Weeks
 
 00 - Introduction to Data / Data in our lives
+9-12.CT.1 - Create a simple digital model that makes predictions of outcomes.
 
 01 - Organizing Data
+9-12.CT.2 - Collect and evaluate data from multiple sources for use in a computational artifact.
 
 02 - Filtering and Scrubbing Data
+9-12.CT.3 - Refine and visualize complex data sets to tell different stories with the same data set. 
 
 03 - Analyzing Data
+9-12.CT.3 - Refine and visualize complex data sets to tell different stories with the same data set. 
 
 04 - In-depth data analysis
+9-12.CT.3 - Refine and visualize complex data sets to tell different stories with the same data set. 
 
 05 - Big Data Research Project
+9-12.CT.1 - Create a simple digital model that makes predictions of outcomes.
+9-12.CT.2 - Collect and evaluate data from multiple sources for use in a computational artifact.
+9-12.CT.3 - Refine and visualize complex data sets to tell different stories with the same data set. 
+9-12.IC.7 - Investigate the use of computer science in multiple fields.
 
 06 - Project Research and Work-day
 
