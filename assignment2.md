@@ -2,6 +2,8 @@
 
 ### Eric Liu
 
+#### Standard: 9-12.CT.2 Collect and evaluate data from multiple sources for use in a computational artifact.
+
 #### Objective: Students will search a new dataset to analyze. Follow up to in-class assignment that sets up the student with data skills.
 
 SKills:
