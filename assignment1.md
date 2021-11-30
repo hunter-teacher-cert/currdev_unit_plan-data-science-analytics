@@ -2,6 +2,8 @@
 
 ### Eric Liu
 
+#### Standard: 9-12.CT.1 Create a simple digital model that makes predictions of outcomes.
+
 #### Objective: Students will use basic data skills to sort, rearrange, and modify data in a spreadsheet.
 
 SKills:
